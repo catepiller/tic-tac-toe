@@ -1,6 +1,7 @@
 # tic-tac-toe
 A two player GUI tic-tac-toe game run on a server
 
+
 Notes:
 
 • For the tic-tac-toe game to run, make sure you run TicTacToeServer.java before running TicTacToeClient.java. 
